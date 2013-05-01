@@ -1,0 +1,7 @@
+In order to produce multiple prime numbers a polynomial must be irreducible. If a function is reducible it can be written in the form f(x) = g(x)*h(x) where g(x) and h(x) will both produce integer results for any given x. If g(x) = a and h(x) = b then f(x) = a*b. f(x) can only be prime if a or b took on the value 1 and the other value was prime. 
+
+In addition to being irreducible the polynomial must produce odd numbers. This may seem trivial, but if a function only produces even numbers than all f(x) for all x will be non-prime. 
+
+In addition to these conditions that I came up with on my own we can look at the Bunyakovsky conjecture for additional conditions to when f(x) will produce infinite primes. According to Wikipedia “ Russian mathematician Viktor Bunyakovsky, asserts when a polynomial  in one variable with positive degree and integer coefficients should have infinitely many prime values for positive integer inputs. Three necessary conditions are (1) the leading coefficient of  is positive, (2) the polynomial is irreducible over the integers, and (3) as  runs over the positive integers the numbers  should not share a common factor greater than 1. Bunyakovsky's conjecture is that these three conditions are sufficient: if  satisfies the three conditions then  is prime for infinitely many positive integers .”
+
+
